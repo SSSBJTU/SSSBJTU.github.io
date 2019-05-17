@@ -3,7 +3,7 @@
 <td width="75%">
 <h1>软件与系统安全_2019</h1>
 <p><b>组织：团队(12人)</b></p>
-<p><b>学校：北京交通大学</b></p>
+<p><b>学校：BJTU</b></p>
 </td>
 <td width="25%">
 <img src="/headImg.jpg" width="100%"> 
